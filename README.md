@@ -1,5 +1,5 @@
-# spring-boot-starter
-A simple application demonstrating use of Spring Boot and Hiberhate. 
+# Spring Boot Starter
+A simple introductory application demonstrating use of Spring Boot Framework integarted with Hibernate.
 
 ## Prerequisits 
 - Java 11
