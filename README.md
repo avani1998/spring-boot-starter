@@ -12,9 +12,13 @@ A simple application demonstrating use of Spring Boot and Hiberhate.
 $ https://github.com/avani1998/spring-boot-starter.git 
 ```
 - In VS Code open project directory and install dependencies
-- Run the application.
+
+- Run the application
+
 - Check the status of the application using http://localhost:8080/actuator/health. Should display ```{"status":"UP"}```
+
 - Open http://localhost:8080/h2-console. Note the JDBC URL. If you have used Spring Boot H2 the first time, you might see a different URL.In such a case, change it to ```jdbc:h2:mem:testdb``` Leave the password and username fields as default values and click **Connect** to view **h2 console** view.
+
 - Query data using 
 ```mysql
 SELECT * FROM VEHICLE;
