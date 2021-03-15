@@ -11,7 +11,7 @@ A simple introductory application demonstrating use of Spring Boot Framework int
   ```bash
   $ https://github.com/avani1998/spring-boot-starter.git 
   ```
-- In VS Code open project directory and install dependencies
+- In Visual Studio Code open the project directory and install the dependencies
 
 - Run the application
 
